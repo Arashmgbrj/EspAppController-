@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#9B31EB"
+        android:pathData="M12,34c3-4,7.5-6,12-6s9,2,12,6c-3,4-7.5,6-12,6s-9-2-12-6z"/>
+
+    <!-- مردمک چشم -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,30a4,4 0 1,0 0,8a4,4 0 1,0 0,-8z"/>
+</vector>

@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- موج بزرگ -->
+    <path
+        android:fillColor="#9B31EB"
+        android:pathData="M24,10c-7.7,0-14.5,3.1-19.7,8.2l2.8,2.8C12.8,16.9,18.1,14,24,14s11.2,2.9,16.9,7l2.8-2.8C38.5,13.1,31.7,10,24,10z"/>
+
+    <!-- موج وسط -->
+    <path
+        android:fillColor="#9B31EB"
+        android:pathData="M24,18c-4.4,0-8.5,1.8-11.3,4.7l2.8,2.8C17.6,23.1,20.7,22,24,22s6.4,1.1,8.5,3.5l2.8-2.8C32.5,19.8,28.4,18,24,18z"/>
+
+    <!-- موج کوچک -->
+    <path
+        android:fillColor="#9B31EB"
+        android:pathData="M24,26c-1.7,0-3.3,0.7-4.5,1.9l4.5,4.5 4.5-4.5C27.3,26.7,25.7,26,24,26z"/>
+
+    <!-- شکل چشم زیر امواج -->
+    <!-- بیضی دور چشم -->
+    <path
+        android:fillColor="#9B31EB"
+        android:pathData="M12,34c3-4,7.5-6,12-6s9,2,12,6c-3,4-7.5,6-12,6s-9-2-12-6z"/>
+
+    <!-- مردمک چشم -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,30a4,4 0 1,0 0,8a4,4 0 1,0 0,-8z"/>
+</vector>
